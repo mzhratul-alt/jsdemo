@@ -83,6 +83,7 @@ a {
   background-image: url(../images/banner-1.jpg);
   background-size: cover;
   background-position: center;
+  background-attachment: fixed;
   height: 550px;
   position: relative;
   z-index: 1;
